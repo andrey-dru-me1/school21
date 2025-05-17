@@ -1,0 +1,5 @@
+#define INDEX_OUT_OF_BOUNDS -2
+#define ALLOCATION_ERROR -1
+#define SUCCESS 0
+
+#define STRUCT_TYPE CAT2(NAME, vec)

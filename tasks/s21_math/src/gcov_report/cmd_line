@@ -1,0 +1,1 @@
+genhtml -o gcov_report gcov_report.info
