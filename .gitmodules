@@ -1,0 +1,3 @@
+[submodule "tasks/maze"]
+	path = tasks/maze
+	url = ssh://git@repos-ssh.21-school.ru:2289/students/A1_Maze.ID_1365286/Team__TL__maultart_student.21_school.ru_.hVORR_p0RgCONr9BLIQFJA/A1_Maze-1.git
